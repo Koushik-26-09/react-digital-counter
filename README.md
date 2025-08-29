@@ -18,10 +18,6 @@ The app allows users to **start, pause, reset, and adjust** the timer duration.
 
 ---
 
-## 📸 Screenshot
-![Digital Timer Preview](https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png)
-
----
 
 ## 🛠️ Built With
 - ReactJS  
